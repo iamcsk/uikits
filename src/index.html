@@ -22,7 +22,7 @@
       }
       .appContainer {
         height: 95%;
-        overflow: auto;
+        overflow: hidden;
         padding: 40px;
         margin-top: 78px;
       }
@@ -30,17 +30,27 @@
         height: 90%;
         width: 240px;
         margin-right: 68px;
+        overflow: auto;
+        min-width: 200px;
       }
 
       .q-data-table{
         border: none !important;
       }
+
+      .q-data-table{
+          overflow: auto !important;
+      }
+
       .fx{
         display: flex;
       }
       .textTD{
         vertical-align: top;
         padding-top: 32px;
+      }
+      .q-data-table table tbody tr:nth-child(odd) {
+         background: #eee !important;
       }
 
       td {

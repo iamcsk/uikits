@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Element UI Dropdown",
+		"name": "Element UI Button",
 		"uikit": "element",
 		"uikiturl": "",
 		"src" : "",
-		"demo": "//jsfiddle.net/iamcsk/4xjy3cjg/2/embedded/result/"
+		"demo": "//jsfiddle.net/iamcsk/0xctobfk/1/embedded/result/"
 	},
 	{
-		"name": "Bootstrap Dropdown",
+		"name": "Bootstrap Button",
 		"uikit": "bootstrap",
 		"uikiturl": "",
 		"src" : "",
-		"demo": "//jsfiddle.net/iamcsk/fk6b2aws/17/embedded/result/"
+		"demo": "//jsfiddle.net/iamcsk/fk6b2aws/15/embedded/result/"
 	},
 	{
 		"name": "Semantic Button",

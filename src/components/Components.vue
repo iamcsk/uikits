@@ -48,6 +48,11 @@ export default {
     components: 'components'
   }),
   watch: {
+    '$route' (to, from) {
+      // var query = '?filterId=' + this.$route.params.id
+      // this.$store.dispatch('getTickets', query)
+      this.$store.dispatch('getComponents', {component: this.$route.params.id + '.json'})
+    },
     components (components) {
       console.log(' CSK components are here ', components)
     },
@@ -76,9 +81,6 @@ export default {
       }
       this.config.bodyStyle = style
     }
-  },
-  beforeMount: function () {
-    this.$store.dispatch('getComponents', {component: this.$route.params.id + '.json'})
   },
   methods: {
     changeMessage (props) {

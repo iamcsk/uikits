@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Element UI Dropdown",
+		"uikit": "element",
+		"uikiturl": "",
+		"src" : "",
+		"demo": "//jsfiddle.net/iamcsk/4xjy3cjg/2/embedded/result/"
+	},
+	{
+		"name": "Bootstrap Dropdown",
+		"uikit": "bootstrap",
+		"uikiturl": "",
+		"src" : "",
+		"demo": "//jsfiddle.net/iamcsk/fk6b2aws/17/embedded/result/"
+	},
+	{
+		"name": "Semantic Button",
+		"uikit": "semanticui",
+		"uikiturl": "",
+		"src" : "",
+		"demo": ""
+	},
+	{
+		"name": "Bulma Button",
+		"uikit": "semanticui",
+		"uikiturl": "",
+		"src" : "",
+		"demo": ""
+	},
+	{
+		"name": "Rebulma Button",
+		"uikit": "semanticui",
+		"uikiturl": "",
+		"src" : "",
+		"demo": ""
+	}	
+
+]
