@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Element UI Button",
+		"uikit": "element",
+		"uikiturl": "",
+		"src" : "",
+		"demo": "//jsfiddle.net/iamcsk/29e2m4o7/7/embed/result/"
+	},
+	{
+		"name": "Bootstrap UI Button",
+		"uikit": "bootstrap",
+		"uikiturl": "",
+		"src" : "",
+		"demo": ""
+	},
+	{
+		"name": "Semantic Button",
+		"uikit": "semanticui",
+		"uikiturl": "",
+		"src" : "",
+		"demo": ""
+	},
+	{
+		"name": "Bulma Button",
+		"uikit": "semanticui",
+		"uikiturl": "",
+		"src" : "",
+		"demo": ""
+	},
+	{
+		"name": "Rebulma Button",
+		"uikit": "semanticui",
+		"uikiturl": "",
+		"src" : "",
+		"demo": ""
+	}	
+
+]
