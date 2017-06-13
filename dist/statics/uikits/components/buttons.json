@@ -4,14 +4,14 @@
 		"uikit": "element",
 		"uikiturl": "",
 		"src" : "",
-		"demo": "//jsfiddle.net/iamcsk/29e2m4o7/7/embed/result/"
+		"demo": "//jsfiddle.net/iamcsk/0xctobfk/1/embedded/result/"
 	},
 	{
-		"name": "Bootstrap UI Button",
+		"name": "Bootstrap Button",
 		"uikit": "bootstrap",
 		"uikiturl": "",
 		"src" : "",
-		"demo": ""
+		"demo": "//jsfiddle.net/iamcsk/fk6b2aws/10/embedded/result/"
 	},
 	{
 		"name": "Semantic Button",
