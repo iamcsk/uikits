@@ -2,7 +2,7 @@
   <div id="Components" class="fx appContainer">
       <div class="sidebar">
         <p class="caption">Components</p>
-        <div class="fh list no-border item">
+        <div class="fh list no-border item spe">
             <div class="item-content" v-for="elem in componentsTypes" :key="elem.name">
 
               <router-link class="fz-m link-item" :to="elem.path">
